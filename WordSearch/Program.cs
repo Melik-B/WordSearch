@@ -53,13 +53,11 @@ while (sentence != "q")
         }
     }
     if (found == true)
-        result = "\"" + word + "\" not found in \"" + sentence + "\".";
-    else
         result = "\"" + word + "\" found in \"" + sentence + "\".";
+    else
+        result = "\"" + word + "\" not found in \"" + sentence + "\".";
     Console.WriteLine(result);
 
     Console.Write("\nSentence (Quit: q): ");
     sentence = Console.ReadLine();
-
-    Console.ReadLine();
 }
