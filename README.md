@@ -1,6 +1,7 @@
 <h1 align="center">Word Search</h1>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/185229064-1ef329fc-03e8-49b5-a32f-2ca949e52511.jpg">
 
+<h3>Word Search :</h3>
 
 Hello, the purpose of this simple console project is to print on the screen whether the word received from the user is found in the sentence received from the user. Although this console application is simple, if you are a beginner, this application will be a very good example for you to improve yourself.
 
