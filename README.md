@@ -4,6 +4,17 @@
 
 Hello, the purpose of this simple console project is to print on the screen whether the word received from the user is found in the sentence received from the user. Although this console application is simple, if you are a beginner, this application will be a very good example for you to improve yourself.
 
+
+```bash
+  eg: sentence: Word Search
+  word: Search
+  "Search" found in "Word Search Application".
+  OR
+  eg: sentence: Word Search
+  word: Worf
+  "Worf" not found in "Word Search Application".
+```
+
 <b>ALGORITHM</b>
 
 - Start.
