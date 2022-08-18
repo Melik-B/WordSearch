@@ -1,5 +1,7 @@
 <h1 align="center">Word Search</h1>
-<img align="center" src="https://user-images.githubusercontent.com/76618468/185229064-1ef329fc-03e8-49b5-a32f-2ca949e52511.jpg">
+<img align="center" src="https://user-images.githubusercontent.com/76618468/185485211-023c73f8-b8b9-48e6-9994-a2c93d1c24e3.jpg">
+<hr>
+<img align="center" src="https://user-images.githubusercontent.com/76618468/185485574-d05c4b29-e177-4d34-bcc6-2a947043449d.jpg">
 
 <h3>Word Search :</h3>
 
