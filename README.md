@@ -43,6 +43,6 @@ Hello, the purpose of this simple console project is to print on the screen whet
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [UpperCase LowerCase](https://github.com/Melik-B/WordSearch)
 
 <p align="right">-Melik Baykal</p>
