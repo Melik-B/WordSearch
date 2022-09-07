@@ -45,4 +45,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Word Search](https://github.com/Melik-B/WordSearch)
 
-<p align="right">-Melik Baykal</p>
+<p align="right">-Melik Bayka</p>
